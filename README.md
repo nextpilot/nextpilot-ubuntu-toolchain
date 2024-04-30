@@ -2,7 +2,7 @@
 
 nextpilot-ubuntu-toolchain is the develop toolchain for [nextpilot-flight-control](https://github.com/nextpilot/nextpilot-flight-control.git) in Ubuntu.
 
-nextpilot-ubuntu-toolchain include the follow tools：
+the script `init.sh` will update/install/configure the follow tools：
 
 - git
 - python, pip, scons, kconfiglib, mkdocs etc, see [requirements.txt](requirements.txt)
