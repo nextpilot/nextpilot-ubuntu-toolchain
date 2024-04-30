@@ -2,6 +2,13 @@
 
 nextpilot-ubuntu-toolchain is the develop toolchain for [nextpilot-flight-control](https://github.com/nextpilot/nextpilot-flight-control.git) in Ubuntu.
 
+nextpilot-ubuntu-toolchain include the follow tools：
+
+- git
+- python, pip, scons, kconfiglib, mkdocs etc, see [requirements.txt](requirements.txt)
+- gcc-arm-none-eabi
+- qemu-system-arm
+
 ## how to start
 
 clone repo to `~/.npdt`, or any other directory
