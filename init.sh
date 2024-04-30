@@ -86,7 +86,7 @@ arm-none-eabi-gcc --version
 
 echo
 echo "################################################################"
-echo "create/activat python venv"
+echo "create/activate python venv"
 echo "################################################################"
 if [ ! -d "$script_path/.venv" ]; then
     python3 -m venv "$script_path/.venv"
